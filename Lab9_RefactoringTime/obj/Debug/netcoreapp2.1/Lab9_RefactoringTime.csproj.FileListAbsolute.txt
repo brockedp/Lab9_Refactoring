@@ -1,0 +1,11 @@
+C:\Users\Deno\Documents\Grand Circus\Labs\Lab9_RefactoringTime\Lab9_RefactoringTime\bin\Debug\netcoreapp2.1\Lab9_RefactoringTime.deps.json
+C:\Users\Deno\Documents\Grand Circus\Labs\Lab9_RefactoringTime\Lab9_RefactoringTime\bin\Debug\netcoreapp2.1\Lab9_RefactoringTime.runtimeconfig.json
+C:\Users\Deno\Documents\Grand Circus\Labs\Lab9_RefactoringTime\Lab9_RefactoringTime\bin\Debug\netcoreapp2.1\Lab9_RefactoringTime.runtimeconfig.dev.json
+C:\Users\Deno\Documents\Grand Circus\Labs\Lab9_RefactoringTime\Lab9_RefactoringTime\bin\Debug\netcoreapp2.1\Lab9_RefactoringTime.dll
+C:\Users\Deno\Documents\Grand Circus\Labs\Lab9_RefactoringTime\Lab9_RefactoringTime\bin\Debug\netcoreapp2.1\Lab9_RefactoringTime.pdb
+C:\Users\Deno\Documents\Grand Circus\Labs\Lab9_RefactoringTime\Lab9_RefactoringTime\obj\Debug\netcoreapp2.1\Lab9_RefactoringTime.csprojAssemblyReference.cache
+C:\Users\Deno\Documents\Grand Circus\Labs\Lab9_RefactoringTime\Lab9_RefactoringTime\obj\Debug\netcoreapp2.1\Lab9_RefactoringTime.csproj.CoreCompileInputs.cache
+C:\Users\Deno\Documents\Grand Circus\Labs\Lab9_RefactoringTime\Lab9_RefactoringTime\obj\Debug\netcoreapp2.1\Lab9_RefactoringTime.AssemblyInfoInputs.cache
+C:\Users\Deno\Documents\Grand Circus\Labs\Lab9_RefactoringTime\Lab9_RefactoringTime\obj\Debug\netcoreapp2.1\Lab9_RefactoringTime.AssemblyInfo.cs
+C:\Users\Deno\Documents\Grand Circus\Labs\Lab9_RefactoringTime\Lab9_RefactoringTime\obj\Debug\netcoreapp2.1\Lab9_RefactoringTime.dll
+C:\Users\Deno\Documents\Grand Circus\Labs\Lab9_RefactoringTime\Lab9_RefactoringTime\obj\Debug\netcoreapp2.1\Lab9_RefactoringTime.pdb
